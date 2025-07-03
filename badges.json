@@ -1,20 +1,8 @@
 {
   "badges": [
     {
-      "url": "https://cdn.discordapp.com/emojis/123456789012345678.webp",
-      "text": "My Custom Badge"
-    },
-    {
-      "url": "https://i.imgur.com/example.png",
-      "text": "Cool Developer"
-    },
-    {
-      "url": "https://raw.githubusercontent.com/username/repo/main/images/badge.png",
-      "text": "GitHub Expert"
-    },
-    {
-      "url": "https://cdn.jsdelivr.net/gh/username/repo@main/badge.svg",
-      "text": "Open Source Contributor"
+      "url": "https://cdn.discordapp.com/emojis/1142909256954290247.png",
+      "text": "EEPY"
     }
   ]
 }
